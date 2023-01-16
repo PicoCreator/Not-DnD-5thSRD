@@ -13,17 +13,22 @@ Almost everything is in the [docs folder](./docs/)
 **Not DnD 5thSRD**
 
 > **Taking Rest**
+>
 > Though they may be brave and courageous, adventurers cannot spend every hour of the day in the midst of exploration, social interaction, and combat. They must take time to rest, to sleep and eat, to tend to their wounds, to refresh their minds and spirits for spellcasting, and to prepare themselves for further adventures.
 
 
 **Extract from a major game**
 
 > **Resting**
+>
 > Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
 
 It maybe similar, but the wording is different.
 
 # this @LegalEagle video link is here for no reason in particular
+
+[![LegalEagle-thumbnail](./random/dnd-legal-eagle-thumbnail.jpeg)]
+(https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle)
 
 https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle
 
@@ -43,9 +48,7 @@ PS: It took over 4 hours, for the AI to rewrite every page, one page at a time. 
 
 For the sake of avoiding confusion, with another well known game franchise, which is very similar.
 
-The following are clarification, for common confusion, with potentially copyrighted or trademark terms, found in another notable game.
-
-Note that this is an incomplete list
+The following are clarification, for common confusion, with potentially copyrighted or trademark terms, found in another notable game. The following is an example.
 
 | Terms we use | Terms, that some people may confused with | Source Materials for our terms |
 | --- | --- | --- |
@@ -57,16 +60,8 @@ Note that this is an incomplete list
 | Baluran Gate | Baldur's Gate | https://en.wikipedia.org/wiki/Baluran_National_Park |
 | Waterhelm | Waterdeep | https://lotr.fandom.com/wiki/Helm%27s_Deep | 
 | Sea Horror | Aboleth | https://en.wikipedia.org/wiki/Sea_monster | 
-| Giant Antlion | Ankheg | | 
-| Dragon Snake | Behir | | 
-| Crawling Horror | Chuul | | 
-| Demon Lord | Glabrezu | | 
-| Gibbering Horror | Gibbering Mouther | | 
-| GrandSphinx | Gynosphinx | | 
-| Jawstone | Xorn | | 
-| Trash Eater | Otyugh | | 
-| BearOwl | Owlbear | | 
-| World Eater | Tarrasque | | 
+
+Note that the WIP full list will be [updated here](./terms/full-terms-list.md)
 
 # Is this legal, what is the license for this?
 
@@ -112,6 +107,7 @@ I am not a lawyer
 - Step 3) Make it builder-ble into a website / PDF format like : https://github.com/vitusventure/5thSRD
 
 - Step 4) Get the blessings of a lawyer? That we are good to go?
+    - Hell, does this technically count as parody?
 
 Once all these are resolve, maybe we would want to call it `OpenSRD` ?
 

@@ -86,7 +86,7 @@ You can see my article for way too much details on the AI issue : https://substa
 So until those are resolved, treat this as a dump of various WIP stuff.
 
 If this is considered derivative work, it would be probably using the something like the OGL license
-If this is NOT derivative work, it would be MIT license.
+If this is NOT derivative work, it would be `MIT license` or `Creative Commons - Attribution`.
 
 Also to make it clear in advance, if anyone is willing to "take legal responsibility", of converting this to `MIT licensing` or `Creative Commons - Attribution`.
 I will not be persuing you, as long as you give attribution to this project (and its other contributors), as per the spirit of the `MIT` /  `Creative Commons - Attribution` terms.

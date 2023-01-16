@@ -40,7 +40,9 @@ This is done with either of the following techniques
 - Given inspiration materials, asked it to rewrite the rules in a different style and format
 - After finetuning with the various source materials, asked it to write the rules for individual spells, characters, classes, etc
 
-The specific's of which page is done using which method, will not be disclosed.
+The specific's of which page is done using which method, will not be disclosed. I will regenerate the pages if required, for the method that is more "legal friendly".
+
+The process is entirely automated, as such as a human, I have to properlly edit and proof read all 973 documents that were generated.
 
 PS: It took over 4 hours, for the AI to rewrite every page, one page at a time. Which I had to do about 3 times, due to silly coding bugs on my end.
 

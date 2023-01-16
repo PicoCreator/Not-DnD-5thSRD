@@ -1,0 +1,15 @@
+Name: Grand Feast
+Level: 6
+School: Conjuration
+Classes: Cleric, Druid
+
+# Grand Feast 
+_6th-level conjuration_ 
+
+**Casting Time:** 10 minutes    
+**Range:** 30 feet    
+**Components:** V, S, M (a gem-encrusted bowl worth at least 1,000 gp, which the spell consumes)    
+**Duration:** Instantaneous 
+
+You bring forth a grand feast, including delectable food and drink. The feast takes 1 hour to consume and vanishes at the end of that time, and the beneficial effects don't take effect until this hour is over. Up to twelve other creatures can partake of the feast.    
+A creature that partakes of the feast gains several advantages. The creature is cured of all illnesses and poison, becomes immune to poison and fear, and makes all Wisdom saving throws with advantage. Its hit point maximum also increases by 2d10, and it gains the same number of hit points. These benefits last for 24 hours.

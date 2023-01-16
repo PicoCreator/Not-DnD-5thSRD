@@ -1,0 +1,26 @@
+name: Winged Serpent
+type: beast
+cr: .125
+
+# Winged Serpent 
+_Tiny beast, unaligned_
+
+**Armor Class** 14    
+**Hit Points** 5 (2d4)    
+**Speed** 30 ft., fly 60 ft., swim 30 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 4 (−3)  | 18 (+4) | 11 (+0) | 2 (−4)  | 12 (+1) | 5 (−3)  |  
+
+**Senses** blindsight 10 ft., passive Perception 11    
+**Languages** --    
+**Challenge** 1/8 (25 XP) 
+
+**Flyby.** The serpent does not provoke opportunity attacks when it soars out of an enemy's reach. 
+
+### Actions    
+**Bite.** _Melee Weapon Attack:_ +6 to hit, reach 5 ft., one target. _Hit:_ 1 piercing damage plus 7 (3d4) poison damage. 
+
+### Description
+A winged serpent is a brilliantly hued, feathered serpent found in far-flung jungles. Tribespeople and cultists sometimes tame winged serpents to serve as messengers that bear scrolls bound in their coils.

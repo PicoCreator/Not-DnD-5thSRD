@@ -1,0 +1,50 @@
+Name: Giant Scorpion
+Type: Monstrous Beast
+CR: 3
+
+# Giant Scorpion
+_A mighty and fearsome creature, unaligned_
+
+**Armour Class** 15 (natural armour)
+**Hit Points** 52 (7d10 + 14)
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5)  | 9 (−1)  | 3 (−4)  |  
+
+**Senses** blindsight 60 ft., passive Perception 9
+**Languages** --
+**Challenge** 3 (700 XP)
+
+### Actions 
+**Multiattack.** The scorpion makes three strikes: two with its claws and one with its sting.    
+**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.    
+**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. 
+```
+
+Rewritten:
+
+# Giant Scorpion
+_A mighty and fearsome creature, unaligned_
+
+**Armour Class** 15 (natural armour)
+**Hit Points** 52 (7d10 + 14)
+**Speed** 40 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 15 (+2) | 13 (+1) | 15 (+2) | 1 (−5)  | 9 (−1)  | 3 (−4)  |  
+
+**Senses** blindsight 60 ft., passive Perception 9
+**Languages** --
+**Challenge** 3 (700 XP)
+
+### Actions 
+**Multiattack.** The scorpion makes three strikes: two with its claws and one with its sting.    
+**Claw.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 6 (1d8 + 2) bludgeoning damage, and the target is grappled (escape DC 12). The scorpion has two claws, each of which can grapple only one target.    
+**Sting.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one creature. _Hit:_ 7 (1d10 + 2) piercing damage, and the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one. 
+
+The Giant Scorpion is a monstrous beast of great power and ferocity. Its armour class is 15, and it has 52 hit points. It moves with a speed of 40 feet. It is strong, dexterous, and hardy, with a strength of 15 (+2), dexterity of 13 (+1), and constitution of 15 (+2). Its intelligence, wisdom, and charisma are all quite low, at 1 (-5), 9 (-1), and 3 (-4) respectively. It has blindsight of 60 feet and passive Perception of 9. It is a challenge of 3 (700 XP).
+
+The Giant Scorpion is a formidable foe, capable of making three attacks in a single turn. It can make two claw attacks, each of which can grapple one target, and one sting attack. The claw attack has a +4 to hit, and deals 6 (1d8 + 2) bludgeoning damage. The sting attack has a +4 to hit, and deals 7 (1d10 + 2) piercing damage. Additionally, the target must make a DC 12 Constitution saving throw, taking 22 (4d10) poison damage on a failed save, or half as much damage on a successful one.

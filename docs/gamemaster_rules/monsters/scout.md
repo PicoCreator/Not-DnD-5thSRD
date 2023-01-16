@@ -1,0 +1,29 @@
+name: Outrider
+type: Humanoid (any race)
+cr: .5
+
+# Outrider
+_Medium humanoid (any race), any alignment_
+
+**Armour Class** 13 (leather armour)    
+**Hit Points** 16 (3d8 + 3)    
+**Speed** 30 ft. 
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 11 (+0) | 14 (+2) | 12 (+1) | 11 (+0) | 13 (+1) | 11 (+0) |   
+
+**Skills** Nature +4, Perception +5, Stealth +6, Survival +5    
+**Senses** passive Perception 15    
+**Languages** any one language (usually Common)    
+**Challenge** 1/2 (100 XP) 
+
+**Keen Hearing and Sight.** The outrider has an advantage on Wisdom (Perception) checks that rely on hearing or sight. 
+
+### Actions 
+**Multiattack.** The outrider makes two melee attacks or two ranged attacks.    
+**Shortsword.** _Melee Weapon Attack:_ +4 to hit, reach 5 ft., one target. _Hit:_ 5 (1d6 + 2) piercing damage.    
+**Longbow.** _Ranged Weapon Attack:_ +4 to hit, ranged 150/600 ft., one target. _Hit:_ 6 (1d8 + 2) piercing damage. 
+
+### Description
+Outriders are skilled hunters and trackers who offer their services for a fee. Most hunt wild game, but a few work as bounty hunters, serve as guides, or provide military reconnaissance. They are renowned for their sharp eyes and ears, able to spot and hear things that others cannot.

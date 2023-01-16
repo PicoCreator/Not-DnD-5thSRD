@@ -48,9 +48,9 @@ PS: It took over 4 hours, for the AI to rewrite every page, one page at a time. 
 
 # Terms list
 
-For the sake of avoiding confusion, with another well known game franchise, which is very similar.
+For the sake of avoiding confusion, with another well known game franchise.
 
-The following are clarification, for common confusion, with potentially copyrighted or trademark terms, found in another notable game. The following is an example.
+The following are clarification, for common confusion, with potentially copyrighted or trademark terms.
 
 | Terms we use | Terms, that some people may confused with | Source Materials for our terms |
 | --- | --- | --- |
@@ -63,7 +63,8 @@ The following are clarification, for common confusion, with potentially copyrigh
 | Waterhelm | Waterdeep | https://lotr.fandom.com/wiki/Helm%27s_Deep | 
 | Sea Horror | Aboleth | https://en.wikipedia.org/wiki/Sea_monster | 
 
-Note that the WIP full list will be [updated here](./terms/full-terms-list.md)
+Note that the above is a limited list.
+The full (work in progress) list will be [updated here](./terms/full-terms-list.md)
 
 # Is this legal, what is the license for this?
 

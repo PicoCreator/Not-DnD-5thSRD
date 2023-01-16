@@ -1,0 +1,24 @@
+Name: Dire Wolf
+Type: Beast
+CR: 1
+
+# Dire Wolf
+_Large beast, unaligned_
+
+**Armour Class** 12
+**Hit Points** 45 (6d10 + 12)
+**Speed** 50 ft.
+
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+|---------|---------|---------|---------|---------|---------|
+| 16 (+3) | 14 (+2) | 14 (+2) | 2 (−4)  | 12 (+1) | 7 (−2)  |  
+
+**Skills** Perception +3
+**Senses** passive Perception 13
+**Languages** --
+**Challenge** 1 (200 XP)
+
+**Rampage.** When the wolf reduces a creature to 0 hit points with a melee attack on its turn, it can take a bonus action to move up to half its speed and make a bite attack.
+
+### Actions
+**Bite.** _Melee Weapon Attack:_ +5 to hit, reach 5 ft., one target. _Hit:_ 10 (2d6 + 3) piercing damage.

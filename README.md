@@ -85,6 +85,9 @@ So until those are resolved, treat this as a dump of various WIP stuff.
 If this is considered derivative work, it would be probably using the something like the OGL license
 If this is NOT derivative work, it would be MIT license.
 
+Also to make it clear in advance, if anyone is willing to "take legal responsibility", of converting this to MIT licensing.
+I will not be persuing you, as long as you give attribution to this project (and its other contributors), as per the spirit of the MIT terms.
+
 I am not a lawyer
 
 # Ok what can we do next to make this MIT license compatible ?

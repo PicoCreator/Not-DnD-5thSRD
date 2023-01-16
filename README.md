@@ -91,6 +91,7 @@ I am not a lawyer
     - Rule of thumb, if you find the term used in 1800s literature (or earlier), we can use that as the source
     - Update the terms table accordingly (we might need to make this a seperate document)
     - If a human were to further rewrite each page, we are probably good to go.
+    - To aid this process, the docs was scanned against an npm dictionary `word-list`, with unique words listed [in terms/unique-words.txt](./terms/unique-words.txt)
 
 - Step 2) Cleanup and fix any formatting issues in the various documents.
     - GPT had limits, as such I had to splt up chunks part by part, these may cause formatting issues within the same document
@@ -109,3 +110,21 @@ I will keep your changes in git history, and ensure your changes are tracked as 
 
 If the end result can be MIT licensed. You will be named as a contributor attributed under the MIT license.
 If the end result is considered derivative work, it should be under OGL, and you have git history and credit. (Need a lawyer)
+
+# More food for thought
+
+You may want to consider the following, video - from a smaller D&D themed channel, regarding OGL
+
+https://www.youtube.com/watch?v=8X8BS-2lP1s&ab_channel=ZoranTheBear
+
+---
+
+# Like what I am doing?
+
+I am Eugene from [Uilicious.com](https://uilicious.com) - I go by the online handle of @picocreator
+
+- Consider signing up to my substack newsletter : https://substack.tech-talk-cto.com/
+- Or support my small startup : https://uilicious.com
+    - an easy to use low-code website testing tool, with AI !
+    - useful, for constantly testing your website, for you !
+

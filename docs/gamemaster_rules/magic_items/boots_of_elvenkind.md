@@ -2,6 +2,6 @@ Name: Boots of Elvenkind
 Type: Item
 
 # Boots of Elvenkind
-_A wondrous item of ancient elven craftsmanship_
+_Wondrous Item, Uncommon_
 
-When these boots are donned, the wearer's steps are as silent as the night, no matter the surface they tread upon. Furthermore, they grant the wearer an advantage on Dexterity (Stealth) checks that require them to move without a sound. 
+Whilst wearing these boots, your steps make no sound, no matter the surface you tread upon. You also have an advantage on Dexterity (Stealth) checks that require you to move silently.

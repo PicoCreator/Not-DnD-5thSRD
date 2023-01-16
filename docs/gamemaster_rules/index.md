@@ -1,28 +1,28 @@
-# Grandmaster Rules
-## General Grandmaster Rules
+# Game Master Rules
+## General Game Master Rules
 
-* [Afflictions](/grandmaster_rules/afflictions/)
-* [Mythical Beings](/grandmaster_rules/mythical_beings/)
-* [Insanity](/grandmaster_rules/insanity/)
-* [Enchanted Items](/grandmaster_rules/enchanted_items/)
-* [Beasts](/grandmaster_rules/beasts/)
-* [Non-Player Characters](/grandmaster_rules/non_player_characters/)
-* [Objects](/grandmaster_rules/objects/)
-* [Toxins](/grandmaster_rules/toxins/)
-* [Sentient Magical Items](/grandmaster_rules/sentient_magical_items/)
-* [Perils](/grandmaster_rules/perils/)
+* [Afflictions](/game_master_rules/afflictions/)
+* [Legendary Beings](/game_master_rules/legendary_beings/)
+* [Insanity](/game_master_rules/insanity/)
+* [Magical Items](/game_master_rules/magical_items/)
+* [Creatures](/game_master_rules/creatures/)
+* [Non-Player Characters](/game_master_rules/non_player_characters/)
+* [Objects](/game_master_rules/objects/)
+* [Toxins](/game_master_rules/toxins/)
+* [Sentient Magical Items](/game_master_rules/sentient_magical_items/)
+* [Traps](/game_master_rules/traps/)
 
-## Enchanted Item Indexes
+## Magical Item Indexes
 
-* [Items by Name](/grandmaster_rules/enchanted_item_indexes/items_by_name/)
-* [Items by Type](/grandmaster_rules/enchanted_item_indexes/items_by_type/)
+* [Items by Name](/game_master_rules/magical_item_indexes/items_by_name/)
+* [Items by Type](/game_master_rules/magical_item_indexes/items_by_type/)
 
-## Beast Indexes
+## Creature Indexes
 
-* [Beasts by Name](/grandmaster_rules/beast_indexes/beasts_by_name/)
-* [Beasts by Type](/grandmaster_rules/beast_indexes/beasts_by_type/)
-* [Beasts by CR](/grandmaster_rules/beast_indexes/beasts_by_cr/)
+* [Creatures by Name](/game_master_rules/creature_indexes/creatures_by_name/)
+* [Creatures by Type](/game_master_rules/creature_indexes/creatures_by_type/)
+* [Creatures by CR](/game_master_rules/creature_indexes/creatures_by_cr/)
 
 ## Templates
 
-* [Halfdragon Template](/grandmaster_rules/templates/halfdragon_template/)
+* [Halfdragon Template](/game_master_rules/templates/halfdragon_template/)

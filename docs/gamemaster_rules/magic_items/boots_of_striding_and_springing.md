@@ -1,7 +1,7 @@
-Name: Leaping Boots of Striding
+Name: Leaping Boots
 Type: Item
 
-# Leaping Boots of Striding
+# Leaping Boots
 _Wondrous item, uncommon (requires attunement)_
 
-When these boots are donned, the wearer's gait is quickened to a swift 30 feet, regardless of any encumbrance or heavy armor. Furthermore, the wearer can bound thrice the normal distance, though never further than their remaining movement would allow. 
+Whilst wearing these boots, your walking speed is increased to 30 feet, unless it is already higher. Your speed is not reduced if you are encumbered or wearing heavy armour. Furthermore, you can jump three times the normal distance, though you cannot jump further than your remaining movement would allow.

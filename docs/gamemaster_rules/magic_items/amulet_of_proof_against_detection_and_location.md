@@ -1,7 +1,7 @@
-Name: Amulet of Concealment and Protection
+Name: Amulet of Protection from Detection and Location
 Type: Item
 
-# Amulet of Concealment and Protection
+# Amulet of Protection from Detection and Location
 _Wondrous item, uncommon (requires attunement)_
 
-Whilst wearing this amulet, you are hidden from the sight of divination magicks. You cannot be targeted by such magicks, nor perceived through magical scrying. Your presence is concealed from all who would seek to discover you.
+Whilst wearing this amulet, you are concealed from divination magic. You cannot be targeted by such magic or perceived through magical scrying sensors.

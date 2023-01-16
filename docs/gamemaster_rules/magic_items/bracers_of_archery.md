@@ -1,7 +1,7 @@
 Name: Bracers of Archery
 Type: Item
 
-# Bracers of Archery
-_A wondrous item of uncommon rarity, requiring attunement_
+# Bracers of Archery 
+_Wondrous item, uncommon (requires attunement)_ 
 
-When donning these bracers, the wearer is granted a mastery of the longbow and shortbow, and a +2 bonus to damage rolls when firing arrows from such weapons. 
+When wearing these bracers, you shall be proficient with the longbow and shortbow, and you shall gain a +2 bonus to damage rolls on ranged attacks made with such weapons.

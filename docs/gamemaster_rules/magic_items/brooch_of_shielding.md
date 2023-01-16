@@ -1,7 +1,7 @@
-Name: Brooch of Shielding
+Name: Brooch of Warding
 Type: Item
 
-# Brooch of Shielding
+# Brooch of Warding
 _Wondrous item, uncommon (requires attunement)_
 
-When donning this brooch, the wearer is granted a resistance to force damage, and is rendered immune to the ravages of the dreaded **_Magic Missile_** spell. 
+Whilst wearing this brooch, you have resistance to force damage, and you have immunity to damage from the **_magic missile_** spell.

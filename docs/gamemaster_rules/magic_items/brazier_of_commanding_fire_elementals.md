@@ -1,7 +1,7 @@
-name: Brazier of Commanding Fire Elementals
-type: item
+Name: Brazier of Commanding Flame Elementals
+Type: Item
 
-# Brazier of Commanding Fire Elementals 
-_Wondrous item, rare_ 
+# Brazier of Commanding Flame Elementals
+_Wondrous item, rare_
 
-When a flame is lit within this brass brazier, you may use an action to utter the brazier's command word and summon a fire elemental, as if you had cast the **_conjure elemental_** spell. The brazier cannot be used again until the following morn. This brazier weighs a hefty five pounds. 
+Whilst a flame burns in this brass brazier, you can use an action to utter the brazier's command word and summon a flame elemental, as if you had cast the **_conjure elemental_** spell. The brazier cannot be used this way again until the next morn. The brazier weighs 5 pounds.

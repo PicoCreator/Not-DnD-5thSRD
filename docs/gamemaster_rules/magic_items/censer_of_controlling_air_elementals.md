@@ -1,9 +1,9 @@
-Name: Censer of Commanding Aerial Elementals
+Name: Censer of Commanding Air Elementals
 Type: Item
 
-# Censer of Commanding Aerial Elementals
-_A wondrous item of rare power_
+# Censer of Commanding Air Elementals
+_Wondrous item, rare_
 
-When the incense within this censer is lit, you may use an action to utter its command word and summon an air elemental, as if you had cast the **_Conjure Elemental_** spell. The censer cannot be used again until the following morn.
+Whilst incense is burning in this censer, you may use an action to speak the censer's command word and summon an air elemental, as if you had cast the **_conjure elemental_** spell. The censer cannot be used this way again until the next morn.
 
-This vessel, measuring six inches in width and one foot in height, is shaped like a chalice with a decorated lid. It weighs one pound.
+This 6-inch-wide, 1-foot-high vessel resembles a chalice with a decorated lid. It weighs 1 pound.

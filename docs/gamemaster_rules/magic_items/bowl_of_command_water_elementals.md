@@ -1,9 +1,9 @@
-name: Cauldron of Commanding Water Elementals
-type: item
+Name: Bowl of Commanding Water Elementals 
+Type: Item 
 
-# Cauldron of Commanding Water Elementals 
+# Bowl of Commanding Water Elementals 
 _Wondrous item, rare_ 
 
-When this cauldron is filled with water, you may use an action to utter the cauldron's command word and summon a water elemental, as if you had cast the **_conjure elemental_** spell. The cauldron cannot be used again until the following morn.
+Whilst this bowl is filled with water, you may use an action to speak the bowl's command word and summon a water elemental, as if you had cast the **_conjure elemental_** spell. The bowl cannot be used this way again until the next morn.
 
-The cauldron is approximately one foot in diameter and half as deep. It weighs three pounds and holds up to three gallons of water. 
+The bowl is about one foot in diameter and half as deep. It weighs three pounds and holds about three gallons.

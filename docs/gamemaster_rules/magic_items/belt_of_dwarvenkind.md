@@ -1,18 +1,18 @@
-name: Girdle of Dwarven Might
-type: item
+Name: Girdle of the Dwarvenkind
+Type: Item
 
-# Girdle of Dwarven Might
+# Girdle of the Dwarvenkind
 _Wondrous item, rare (requires attunement)_
 
-When donning this girdle, you are granted the following boons:
+Whilst wearing this girdle, you gain the following benefits:
 
-* Your Constitution score is increased by two, up to a maximum of twenty.
-* You are granted advantage on Charisma (Persuasion) checks when conversing with dwarves.
+* Your Constitution score increases by 2, to a maximum of 20.
+* You have advantage on Charisma (Persuasion) checks made to interact with dwarves.
 
-Furthermore, when attuned to the girdle, you have a fifty percent chance each day at dawn of growing a full beard if you are able to, or a more luscious beard if you already have one.
+In addition, whilst attuned to the girdle, you have a 50 percent chance each day at dawn of growing a full beard if you're capable of growing one, or a visibly thicker beard if you already have one.
 
-If you are not a dwarf, you are also granted the following benefits while wearing the girdle:
+If you aren't a dwarf, you gain the following additional benefits whilst wearing the girdle:
 
-* You are granted advantage on saving throws against poison, and you have resistance against poison damage.
-* You are granted darkvision out to a range of sixty feet.
+* You have advantage on saving throws against poison, and you have resistance against poison damage.
+* You have darkvision out to a range of 60 feet.
 * You can speak, read, and write Dwarvish.

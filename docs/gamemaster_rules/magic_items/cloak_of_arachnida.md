@@ -1,12 +1,13 @@
-name: Cloak of the Arachnid
-type: item
+Name: Cloak of the Spider
+Type: Item
 
-# Cloak of the Arachnid
+# Cloak of the Spider
 _Wondrous item, very rare (requires attunement)_
 
-This fine garment is crafted from the finest black silk, interwoven with delicate strands of silver. When donned, the wearer is granted the following benefits:
+This fine garment is crafted from black silk, interwoven with delicate silver threads. When worn, the following benefits are bestowed:
 
-* Immunity to the venom of poisonous creatures.
-* The ability to scale walls and ceilings with the same ease as walking on the ground.
-* Immunity to the webs of spiders and other such creatures, and the ability to move through webs as if they were nothing more than a minor obstacle.
-* The ability to cast the **_web_** spell (save DC 13) with a mere thought. The web created by this spell will fill twice its normal area. This power can only be used once per day, and will not be available again until the following dawn.
+* You are resistant to poison damage.
+* You can climb at the same speed as you can walk.
+* You can traverse vertical surfaces and ceilings, leaving your hands free.
+* You cannot be ensnared by webs of any kind, and can move through them as if they were difficult terrain.
+* You can use an action to cast the **_web_** spell (save DC 13). The web created by the spell fills twice its normal area. This property of the cloak cannot be used again until the next dawn.

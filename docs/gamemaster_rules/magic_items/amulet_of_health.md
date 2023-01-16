@@ -1,7 +1,7 @@
 Name: Amulet of Vigor
-Type: Relic
+Type: Item
 
 # Amulet of Vigor
-_A wondrous item of rare power, requiring attunement_
+_Marvellous trinket, uncommon (requires attunement)_
 
-Whilst wearing this amulet, your Constitution score is increased to 19. If your Constitution is already 19 or higher, the amulet has no effect. 
+Your Constitution score is 19 while you don this amulet. It has no effect on you if your Constitution is already 19 or higher.

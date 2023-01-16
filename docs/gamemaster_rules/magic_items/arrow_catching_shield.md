@@ -1,7 +1,7 @@
-Name: Aegis of the Arrow
-Type: Armor
+Name: Arrow-Catching Buckler
+Type: Armour
 
-# Aegis of the Arrow
-_Armor (shield), rare (requires attunement)_
+# Arrow-Catching Buckler
+_Armour (shield), rare (requires attunement)_
 
-When you don this shield, you are granted a +2 bonus to your Armor Class against ranged attacks. This bonus is in addition to the shield's normal protection. Furthermore, when an enemy launches a ranged attack against a target within five feet of you, you may use your reaction to become the target of the attack instead. 
+When you bear this buckler, you gain a +2 bonus to your Armour Class against ranged attacks. This bonus is in addition to the shield's normal bonus to AC. Moreover, when an attacker makes a ranged attack against a creature within 5 feet of you, you can use your reaction to become the target of the attack instead.

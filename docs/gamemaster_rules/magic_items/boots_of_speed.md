@@ -1,9 +1,9 @@
-Name: Boots of Swiftness
+Name: Swift Striders
 Type: Item
 
-# Boots of Swiftness
+# Swift Striders
 _Wondrous item, rare (requires attunement)_
 
-When these boots are donned, the wearer may click their heels together as a bonus action. Doing so doubles their walking speed, and any creature that attempts to make an opportunity attack against them has disadvantage on the attack roll. To end the effect, the wearer must click their heels together again.
+When these boots are donned, a bonus action can be used to click the heels together. Doing so doubles the wearer's walking speed, and any creature that attempts an opportunity attack against them has disadvantage on the roll. Clicking the heels together again ends the effect.
 
-The magical properties of the boots cease to function after 10 minutes of use, and will not be restored until the wearer completes a long rest.
+The enchantment of the boots lasts for a total of 10 minutes, after which the magic ceases to function until a long rest is completed.

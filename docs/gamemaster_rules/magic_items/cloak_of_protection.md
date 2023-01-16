@@ -1,7 +1,7 @@
-Name: Cloak of Protection
+Name: Cloak of Safeguard
 Type: Item
 
-# Cloak of Protection
-_A wondrous item of uncommon rarity, requiring attunement_
+# Cloak of Safeguard
+_Wondrous item, uncommon (requires attunement)_
 
-When donned, this cloak bestows its wearer with a +1 bonus to their Armor Class and Saving Throws. A boon of protection, it is sure to be of great aid in the most perilous of situations.
+Whilst wearing this cloak, you shall be granted a +1 bonus to your Armour Class and saving throws.

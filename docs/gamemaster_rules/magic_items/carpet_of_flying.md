@@ -1,12 +1,12 @@
-name: Carpet of Levitation
-type: item
+Name: Carpet of Levitation
+Type: Item
 
-# Carpet of Levitation 
-_Wondrous item, very rare_ 
+# Carpet of Levitation
+_Wondrous item, very rare_
 
-By uttering the command word, you can cause the carpet to hover and fly according to your spoken directions, provided that you remain within 30 feet of it.
+You can utter the carpet's command word as an action to make the carpet hover and fly. It moves according to your spoken directions, provided that you are within 30 feet of it.
 
-Four sizes of **carpet of levitation** exist, chosen by the GM or determined randomly. 
+Four sizes of **carpet of levitation** exist. The GM chooses the size of a given carpet or determines it randomly. 
 
 | d100   | Size          | Capacity | Flying Speed |
 |--------|---------------|----------|--------------|
@@ -15,4 +15,4 @@ Four sizes of **carpet of levitation** exist, chosen by the GM or determined ran
 | 56-80  | 5 ft. x 7 ft. | 600 lb.  | 40 feet      |
 | 81-100 | 6 ft. x 9 ft. | 800 lb.  | 30 feet      |
 
-The carpet can bear up to twice its normal capacity, though it will fly at half speed if it carries more than its usual load. 
+A carpet can bear up to twice the weight shown on the table, but it flies at half speed if it carries more than its normal capacity.

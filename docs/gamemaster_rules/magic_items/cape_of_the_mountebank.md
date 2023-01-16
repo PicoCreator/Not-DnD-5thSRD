@@ -4,6 +4,6 @@ Type: Item
 # Cloak of the Conjurer
 _Wondrous item, rare_
 
-This cloak carries with it a faint scent of brimstone. When donned, the wearer may cast the **_Dimension Door_** spell as an action. This power of the cloak may not be used again until the following morn.
+This cloak carries a faint scent of sulphur. Whilst wearing it, you can use it to cast the **_dimension door_** spell as an action. This power of the cloak cannot be used again until the next morn.
 
-When the wearer vanishes, a cloud of smoke is left in their wake, and they appear in a similar cloud of smoke at their destination. This smoke lightly obscures the area they left and the area they appear in, and it dissipates at the end of their next turn. A light or stronger wind will disperse the smoke.
+When you vanish, you leave behind a cloud of smoke, and you appear in a similar cloud of smoke at your destination. The smoke lightly obscures the space you left and the space you appear in, and it dissipates at the end of your next turn. A light or stronger breeze disperses the smoke.

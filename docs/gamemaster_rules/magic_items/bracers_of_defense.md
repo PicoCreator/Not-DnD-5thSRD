@@ -1,7 +1,7 @@
-Name: Bracers of Protection
+Name: Bracers of Defence
 Type: Item
 
-# Bracers of Protection
-_A wondrous item of rare quality, requiring attunement_
+# Bracers of Defence
+_Wondrous item, rare (requires attunement)_
 
-When donning these bracers, the wearer is granted a +2 bonus to their Armor Class, provided they are not wearing any armor or shield.
+Whilst wearing these bracers, you shall gain a +2 bonus to your Armour Class if you are wearing no armour and using no shield.

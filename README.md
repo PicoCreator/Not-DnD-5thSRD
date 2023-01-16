@@ -20,6 +20,8 @@ Though they may be brave and courageous, adventurers cannot spend every hour of 
 Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
 ```
 
+It maybe similar, but the wording is changed.
+
 # this @LegalEagle video link is here for no reason in particular
 
 https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle
@@ -71,7 +73,9 @@ Honestly I do not know - I intend to put this under `MIT license`. But I do not 
 
 This combines 2 giant legal furball.
 
-- One copyright vs trademark [See legal eagle full video](https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle)
+- copyright vs trademark [See legal eagle full video](https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle)
+    - We would need to adapt all of this, to ensure it does not trip over any trademarked term
+    - Our best approach, is to ensure all terms used, has origins from history (outside D&D, or use alternative terms)
 - Is an AI output copyrightable? This question is up in the air for the legal community!
     - I proposed a possible solution to [treat AI models and output as derivative works of their previous steps here](https://substack.tech-talk-cto.com/p/how-opensource-style-licensing-can)
     - Specifically in this case
@@ -128,10 +132,11 @@ https://www.youtube.com/watch?v=8X8BS-2lP1s&ab_channel=ZoranTheBear
 
 # Like what I am doing?
 
-I am Eugene from [Uilicious.com](https://uilicious.com) - I go by the online handle of @picocreator
+I am Eugene from [Uilicious.com](https://uilicious.com) and I go by the online handle of @picocreator
 
-- Consider signing up to my substack newsletter : https://substack.tech-talk-cto.com/
-- Or support my small startup : https://uilicious.com
+- Consider signing up to my substack newsletter : [https://substack.tech-talk-cto.com/](https://substack.tech-talk-cto.com/)
+    - Random topics regarding AI, engineering, and startup.
+- Or support my small startup : [https://uilicious.com](https://uilicious.com)
     - an easy to use low-code website testing tool, with AI !
     - useful, for constantly testing your website, for you !
 

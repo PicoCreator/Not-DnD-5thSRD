@@ -16,7 +16,6 @@ Almost everything is in the [docs folder](./docs/)
 >
 > Though they may be brave and courageous, adventurers cannot spend every hour of the day in the midst of exploration, social interaction, and combat. They must take time to rest, to sleep and eat, to tend to their wounds, to refresh their minds and spirits for spellcasting, and to prepare themselves for further adventures.
 
-
 **Extract from a major game**
 
 > **Resting**
@@ -30,6 +29,8 @@ It maybe similar, but the wording is different.
 [![LegalEagle-thumbnail](./random/dnd-legal-eagle-thumbnail.jpeg)](https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle)
 
 https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle
+
+I like this video, and you should see it 😉
 
 # How was this made?
 
@@ -89,15 +90,16 @@ I will not be persuing you, as long as you give attribution to this project (and
 
 I am not a lawyer
 
-# Ok what can we do next to make this MIT license compatible ?
+# So what can we do next to make this MIT license compatible ?
 
 - Step 1) Review and remove any trademark / copyright infringing term.
     - The AI draws inspiration from too many sources, including copyright / trademark infringing sources.
     - The goal of this project, is to ensure all source materials, and terms, can be drawn on a common public domain heritage (eg. wizards is a noncopyrightable term, so is elves), that is free of copyright and trademark.
     - Rule of thumb, if you find the term used in 1800s literature (or earlier), we can use that as the source
     - Update the terms table accordingly (we might need to make this a seperate document)
-    - If a human were to further rewrite each page, we are probably good to go.
     - To aid this process, the docs was scanned against an npm dictionary `word-list`, with unique words listed [in terms/unique-words.txt](./terms/unique-words.txt)
+    - Also we must, have a human author edit every page, with atleast 20% changes.
+        - This allows us to assert that atleast, the human authors changes are copyrightable under MIT licensing (until we have an answer regarding AI and copyright)
 
 - Step 2) Cleanup and fix any formatting issues in the various documents.
     - GPT had limits, as such I had to splt up chunks part by part, these may cause formatting issues within the same document

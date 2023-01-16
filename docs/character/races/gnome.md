@@ -1,32 +1,78 @@
-# The Gnome Race
+Description: Rules and information for the Gnome race from the 5th Edition (5e) SRD (System Reference Document).
 
-The Gnomes are a race of small, yet hardy folk, renowned for their inventiveness and natural curiosity. They are most often of a goodly nature, and even the tricksters among them are more mischievous than malicious.
+# Gnome 
+## Gnome Traits 
+- - -
+Your gnome character has certain characteristics in common with all other gnomes. 
 
-Gnomes mature at the same rate as humans, and are expected to settle into adulthood by the age of forty. They can live for up to five centuries, and are typically between three and four feet tall, weighing around forty pounds.
+**Ability Score Increase.** Your Intelligence score increases by 2. 
 
-Gnomes have a natural affinity for the arcane, and are gifted with a sharp intellect. As such, their Intelligence score increases by two. They also possess a strong constitution, and their Constitution score increases by one.
+**Age.** Gnomes mature at the same rate as humans, and most are expected to settle into an adult life by around the age of 40. They can live for up to 350 to almost 500 years. 
 
-Gnomes are able to speak, read, and write both Common and Gnomish. The Gnomish language is renowned for its technical treatises and its catalogs of knowledge about the natural world.
+**Alignment.** Gnomes are usually of a good nature. Those who lean towards law are often sages, engineers, researchers, scholars, investigators, or inventors. Those who lean towards chaos are usually minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more mischievous than malicious. 
 
-Gnomes are also gifted with Darkvision, allowing them to see in dim light within sixty feet of them as if it were bright light, and in darkness as if it were dim light. However, they are unable to discern color in darkness, only shades of gray.
+**Size.** Gnomes are between 3 and 4 feet tall and weigh around 40 pounds. Your size is Small.
 
-Gnomes are also gifted with a natural cunning, granting them advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.
+**Speed.** Your base walking speed is 25 feet. 
 
-Finally, Gnomes have a base walking speed of twenty-five feet.
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t distinguish colors in darkness, only shades of gray. 
 
-## Rock Gnomes
+**Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic. 
 
-Rock Gnomes are a subrace of Gnomes, possessing a natural inventiveness and hardiness beyond that of other Gnomes.
+**Languages.** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world. 
 
-Rock Gnomes are gifted with Artificer's Lore, allowing them to add twice their proficiency bonus to any Intelligence (History) checks related to magic items, alchemical objects, or technological devices.
+## Rock Gnome 
+As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. 
 
-Rock Gnomes are also proficient with Tinker's Tools, allowing them to spend one hour and ten gold pieces worth of materials to construct a Tiny clockwork device. This device has an Armor Class of five and one hit point, and ceases to function after twenty-four hours, or when the Rock Gnome uses their action to dismantle it. The Rock Gnome can reclaim the materials used to create the device when it is dismantled.
+**Ability Score Increase.** Your Constitution score increases by 1.
 
-When creating a device, the Rock Gnome can choose from the following options:
+**Artificer’s Lore.** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply. 
 
-* Clockwork Toy: This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves five feet across the ground on each of the Rock Gnome's turns in a random direction. It makes noises as appropriate to the creature it represents.
+**Tinker.** You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. 
+When you create a device, choose one of the following options: 
+>**Clockwork Toy.** This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises appropriate to the creature it represents. 
 
-* Fire Starter: The device produces a miniature flame, which can be used to light a candle, torch, or campfire. Using the device requires the Rock Gnome's action.
+>**Fire Starter.** The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action. 
 
-* Music Box: When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song's end or when it is closed.
+>**Music Box.** When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.
+```
 
+Rewrite:
+
+Description: Rules and information for the Gnome race from the 5th Edition (5e) SRD (System Reference Document).
+
+# Gnome 
+## Gnome Traits 
+- - -
+Your gnome character has certain characteristics in common with all other gnomes. 
+
+**Ability Score Increase.** Your Intelligence score increases by 2. 
+
+**Age.** Gnomes mature at the same rate as humans, and most are expected to settle into an adult life by around the age of 40. They can live for up to 350 to almost 500 years. 
+
+**Alignment.** Gnomes are usually of a good nature. Those who lean towards law are often sages, engineers, researchers, scholars, investigators, or inventors. Those who lean towards chaos are usually minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more mischievous than malevolent. 
+
+**Size.** Gnomes are between 3 and 4 feet tall and weigh around 40 pounds. Your size is Small.
+
+**Speed.** Your base walking speed is 25 feet. 
+
+**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t distinguish colors in darkness, only shades of grey. 
+
+**Gnome Cunning.** You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic. 
+
+**Languages.** You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world. 
+
+## Rock Gnome 
+As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. 
+
+**Ability Score Increase.** Your Constitution score increases by 1.
+
+**Artificer’s Lore.** Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply. 
+
+**Tinker.** You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time. 
+When you create a device, choose one of the following options: 
+>**Clockwork Toy.** This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises befitting the creature it represents. 
+
+>**Fire Starter.** The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action. 
+
+>**Music Box.** When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.

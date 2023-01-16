@@ -1,19 +1,24 @@
-The Tieflings, a race of infernal descent, share certain traits that set them apart from other races. 
+Description: Rules and information for the Tiefling race from the 5th Edition (5e) SRD (System Reference Document).
 
-**Ability Score Increase.** Tieflings are known for their sharp minds and persuasive tongues, and thus their Intelligence and Charisma scores are increased by 1 and 2 respectively. 
+# Tiefling 
+## Tiefling Traits 
+- - -
+Tieflings, due to their infernal descent, share certain racial traits. 
 
-**Age.** Tieflings reach maturity at the same rate as humans, but tend to live a few years longer. 
+**Ability Score Increase.** Your Intelligence is increased by 1, and your Charisma is increased by 2. 
 
-**Alignment.** Though not inherently evil, many Tieflings find themselves drawn to chaotic alignments due to their independent nature. 
+**Age.** Tieflings mature at the same rate as humans, but live a few years longer. 
 
-**Size.** Tieflings are of a similar size and build to humans, and thus are of Medium size. 
+**Alignment.** Tieflings may not have an innate tendency towards evil, but many of them end up there. An independent nature often leads many tieflings to a chaotic alignment. 
 
-**Speed.** Tieflings have a base walking speed of 30 feet. 
+**Size.** Tieflings are of the same size and build as humans. Your size is Medium. 
 
-**Darkvision.** Tieflings have superior vision in dark and dim conditions, allowing them to see in dim light within 60 feet of them as if it were bright light, and in darkness as if it were dim light. However, they cannot discern color in darkness, only shades of gray. 
+**Speed.** Your base walking speed is 30 feet. 
 
-**Hellish Resistance.** Tieflings have resistance to fire damage. 
+**Darkvision.** Your infernal heritage grants you superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness, only shades of gray. 
 
-**Infernal Legacy.** Tieflings are able to cast the **_thaumaturgy_** cantrip, and at 3rd level they can cast the **_hellish rebuke_** spell once and regain the ability to do so after a long rest. At 5th level, they can cast the **_darkness_** spell once and regain the ability to do so after a long rest. Charisma is their spellcasting ability for these spells. 
+**Hellish Resistance.** You have resistance to fire damage. 
 
-**Languages.** Tieflings can speak, read, and write Common and Infernal.
+**Infernal Legacy.** You know the **_thaumaturgy_** cantrip. When you reach 3rd level, you can cast the **_hellish rebuke_** spell as a 2nd-level spell once with this trait and regain the ability to do so when you finish a long rest. When you reach 5th level, you can cast the **_darkness_** spell once with this trait and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells. 
+
+**Languages.** You can speak, read, and write Common and Infernal.

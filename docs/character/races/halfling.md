@@ -1,29 +1,31 @@
-# Dwarves
-## Dwarven Traits
+Description: Rules and information for the Halfling race from the 5th Edition (5e) SRD (System Reference Document).
+
+# Halfling 
+## Halfling Traits 
 - - -
-Your dwarven character has a number of traits in common with all other dwarves. 
+Your halfling character has a number of qualities shared with all other halflings. 
 
-**Ability Score Increase.** Your Strength score increases by 2. 
+**Ability Score Increase.** Your Dexterity score is increased by 2. 
 
-**Age.** A dwarf reaches adulthood at the age of 50 and generally lives into the middle of his or her third century. 
+**Age.** A halfling reaches maturity at the age of 20 and usually lives to the middle of their second century. 
 
-**Alignment.** Most dwarves are lawful good. As a rule, they are stalwart and honorable, standing up for what is right and just. They are also fiercely loyal to their families and clans, and will go to great lengths to protect them. 
+**Alignment.** Most halflings are of a lawful good nature. As a rule, they are kind-hearted and compassionate, loathe to see others in pain, and have no tolerance for oppression. They are also very orderly and traditional, relying heavily on the support of their community and the comfort of their old ways. 
 
-**Size.** Dwarves average about 4 feet tall and weigh about 150 pounds. Your size is Medium. 
+**Size.** Halflings are usually around 3 feet tall and weigh about 40 pounds. Your size is Small. 
 
-**Speed.** Your base walking speed is 25 feet. Your speed is not reduced by wearing heavy armor. 
+**Speed.** Your base walking speed is 25 feet. 
 
-**Darkvision.** Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray. 
+**Lucky.** When you roll a 1 on the d20 for an attack roll, ability check, or saving throw, you can reroll the die and must use the new roll. 
 
-**Dwarven Resilience.** You have advantage on saving throws against poison, and you have resistance against poison damage. 
+**Brave.** You have advantage on saving throws against being frightened.
 
-**Tool Proficiency.** You gain proficiency with the artisan’s tools of your choice: smith’s tools, brewer’s supplies, or mason’s tools. 
+**Halfling Nimbleness.** You can move through the space of any creature that is of a size larger than yours. 
 
-**Languages.** You can speak, read, and write Common and Dwarvish. Dwarvish is full of hard consonants and guttural sounds, and those characteristics spill over into whatever other language a dwarf might speak. 
+**Languages.** You can speak, read, and write Common and Halfling. The Halfling language is not a secret, but halflings are reluctant to share it with others. They write very little, so they do not have a large body of literature. However, their oral tradition is very strong. Almost all halflings speak Common to communicate with the people in whose lands they live or through which they are travelling. 
 
-## Hill 
-As a hill dwarf, you have keen senses, deep intuition, and remarkable resilience. The gold dwarves of Faerûn in their mighty southern kingdom are hill dwarves, as are the exiled Neidar and the debased Klar of Krynn in the Dragonlance setting. 
+## Lightfoot 
+As a lightfoot halfling, you can easily hide from sight, even using other people as cover. You tend to be affable and get along well with others. Lightfoots are more prone to wanderlust than other halflings, and often live among other races or take up a nomadic life. 
 
-**Ability Score Increase.** Your Wisdom score increases by 1. 
+**Ability Score Increase.** Your Charisma score is increased by 1. 
 
-**Dwarven Toughness.** Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. 
+**Naturally Stealthy.** You can attempt to hide even when you are obscured only by a creature that is at least one size larger than you.

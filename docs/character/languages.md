@@ -1,44 +1,110 @@
-# Languages
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
-
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
-
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can understand one another.
-
-### Standard Languages
-| Language   | Typical Speakers  | Script   |
-|------------|-------------------|----------|
-| Common     | Humans            | Common   |
-| Dwarvish   | Dwarves           | Dwarvish |
-| Elvish     | Elves             | Elvish   |
-| Giant      | Ogres, Giants     | Dwarvish |
-| Gnomish    | Gnomes            | Dwarvish |
-| Goblin     | Goblinoids        | Dwarvish |
-| Halfling   | Halflings         | Common   |
-| Orc        | Orcs              | Dwarvish |
-
-### Exotic Languages
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
-| Deep Speech | Aboleths, cloakers  | -         |
-| Infernal    | Devils              | Infernal  |
-| Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey creatures       | Elvish    |
-| Undercommon | Underworld traders  | Elvish    |
-
-```
-
-Rewritten:
+Description: Rules and information for different languages from the 5th Edition (5e) SRD (System Reference Document).
 
 # Tongues
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
 
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can comprehend one another.
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+### Standard Tongues
+| Language   | Common Speakers  | Script   |
+|------------|-------------------|----------|
+| Common     | Humans            | Common   |
+| Dwarvish   | Dwarves           | Dwarvish |
+| Elvish     | Elves             | Elvish   |
+| Giant      | Ogres, Giants     | Dwarvish |
+| Gnomish    | Gnomes            | Dwarvish |
+| Goblin     | Goblinoids        | Dwarvish |
+| Halfling   | Halflings         | Common   |
+| Orc        | Orcs              | Dwarvish |
+
+### Exotic Tongues
+| Language    | Typical Speakers    | Script    |
+|-------------|---------------------|-----------|
+| Abyssal     | Demons              | Infernal  |
+| Celestial   | Celestials          | Celestial |
+| Draconic    | Dragons, dragonborn | Draconic  |
+| Deep Speech | Aboleths, cloakers  | -         |
+| Infernal    | Devils              | Infernal  |
+| Primordial  | Elementals          | Dwarvish  |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |
+```
+Description: Rules and information for different tongues from the 5th Edition (5e) SRD (System Reference Document).
+
+# Languages
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+### Standard Languages
+| Language   | Common Speakers  | Script   |
+|------------|-------------------|----------|
+| Common     | Humans            | Common   |
+| Dwarvish   | Dwarves           | Dwarvish |
+| Elvish     | Elves             | Elvish   |
+| Giant      | Ogres, Giants     | Dwarvish |
+| Gnomish    | Gnomes            | Dwarvish |
+| Goblin     | Goblinoids        | Dwarvish |
+| Halfling   | Halflings         | Common   |
+| Orc        | Orcs              | Dwarvish |
+
+### Exotic Languages
+| Language    | Typical Speakers    | Script    |
+|-------------|---------------------|-----------|
+| Abyssal     | Demons              | Infernal  |
+| Celestial   | Celestials          | Celestial |
+| Draconic    | Dragons, dragonborn | Draconic  |
+| Deep Speech | Aboleths, cloakers  | -         |
+| Infernal    | Devils              | Infernal  |
+| Primordial  | Elementals          | Dwarvish  |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |
+
+Description: Rules and information for different tongues from the 5th Edition (5e) SRD (System Reference Document).
+
+# Languages
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+### Standard Tongues
+| Language   | Common Speakers  | Script   |
+|------------|-------------------|----------|
+| Common     | Humans            | Common   |
+| Dwarvish   | Dwarves           | Dwarvish |
+| Elvish     | Elves             | Elvish   |
+| Giant      | Ogres, Giants     | Dwarvish |
+| Gnomish    | Gnomes            | Dwarvish |
+| Goblin     | Goblinoids        | Dwarvish |
+| Halfling   | Halflings         | Common   |
+| Orc        | Orcs              | Dwarvish |
+
+### Exotic Tongues
+| Language    | Typical Speakers    | Script    |
+|-------------|---------------------|-----------|
+| Abyssal     | Demons              | Infernal  |
+| Celestial   | Celestials          | Celestial |
+| Draconic    | Dragons, dragonborn | Draconic  |
+| Deep Speech | Aboleths, cloakers  | -         |
+| Infernal    | Devils              | Infernal  |
+| Primordial  | Elementals          | Dwarvish  |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |
+```
+Description: Rules and information for different languages from the 5th Edition (5e) SRD (System Reference Document).
+
+# Tongues
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
 ### Standard Languages
 | Language   | Typical Speakers  | Script   |
@@ -64,11 +130,47 @@ Some of these languages are actually families of languages with many dialects. F
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
 
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
+Description: Rules and information for different tongues from the 5th Edition (5e) SRD (System Reference Document).
 
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as the cant of thieves or the language of druids.
+# Languages
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can understand one another.
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+### Standard Tongues
+| Language   | Typical Speakers  | Script   |
+|------------|-------------------|----------|
+| Common     | Humans            | Common   |
+| Dwarvish   | Dwarves           | Dwarvish |
+| Elvish     | Elves             | Elvish   |
+| Giant      | Ogres, Giants     | Dwarvish |
+| Gnomish    | Gnomes            | Dwarvish |
+| Goblin     | Goblinoids        | Dwarvish |
+| Halfling   | Halflings         | Common   |
+| Orc        | Orcs              | Dwarvish |
+
+### Exotic Tongues
+| Language    | Typical Speakers    | Script    |
+|-------------|---------------------|-----------|
+| Abyssal     | Demons              | Infernal  |
+| Celestial   | Celestials          | Celestial |
+| Draconic    | Dragons, dragonborn | Draconic  |
+| Deep Speech | Aboleths, cloakers  | -         |
+| Infernal    | Devils              | Infernal  |
+| Primordial  | Elementals          | Dwarvish  |
+| Sylvan      | Fey creatures       | Elvish    |
+| Undercommon | Underworld traders  | Elvish    |
+```
+Description: Rules and information for different languages from the 5th Edition (5e) SRD (System Reference Document).
+
+# Tongues
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
+
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
+
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
 
 ### Standard Languages
 | Language   | Typical Speakers  | Script   |
@@ -94,13 +196,16 @@ Some of these languages are actually families of languages with many dialects. F
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
 
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
+Description: Rules and information for different tongues from the 5th Edition (5e) SRD (System Reference Document).
 
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as the secret code of thieves or the language of druids.
+# Languages
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note these languages on your character sheet.
 
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can converse with one another.
+Choose your languages from the Standard Languages table, or pick one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as thieves' cant or the tongue of druids.
 
-### Standard Languages
+Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Creatures that speak different dialects of the same language can communicate with one another.
+
+### Standard Tongues
 | Language   | Typical Speakers  | Script   |
 |------------|-------------------|----------|
 | Common     | Humans            | Common   |
@@ -112,7 +217,7 @@ Some of these languages are actually families of languages with many dialects. F
 | Halfling   | Halflings         | Common   |
 | Orc        | Orcs              | Dwarvish |
 
-### Exotic Languages
+### Exotic Tongues
 | Language    | Typical Speakers    | Script    |
 |-------------|---------------------|-----------|
 | Abyssal     | Demons              | Infernal  |
@@ -123,118 +228,8 @@ Some of these languages are actually families of languages with many dialects. F
 | Primordial  | Elementals          | Dwarvish  |
 | Sylvan      | Fey creatures       | Elvish    |
 | Undercommon | Underworld traders  | Elvish    |
+```
+Description: Rules and information for different languages from the 5th Edition (5e) SRD (System Reference Document).
 
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
-
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as the secret code of thieves or the language of druids.
-
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can communicate with one another.
-
-### Standard Languages
-| Language   | Typical Speakers  | Script   |
-|------------|-------------------|----------|
-| Common     | Humans            | Common   |
-| Dwarvish   | Dwarves           | Dwarvish |
-| Elvish     | Elves             | Elvish   |
-| Giant      | Ogres, Giants     | Dwarvish |
-| Gnomish    | Gnomes            | Dwarvish |
-| Goblin     | Goblinoids        | Dwarvish |
-| Halfling   | Halflings         | Common   |
-| Orc        | Orcs              | Dwarvish |
-
-### Exotic Languages
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
-| Deep Speech | Aboleths, cloakers  | -         |
-| Infernal    | Devils              | Infernal  |
-| Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey creatures       | Elvish    |
-| Undercommon | Underworld traders  | Elvish    |
-
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
-
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as the secret code of thieves or the language of druids.
-
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can converse with one another.
-
-### Standard Languages
-| Language   | Typical Speakers  | Script   |
-|------------|-------------------|----------|
-| Common     | Humans            | Common   |
-| Dwarvish   | Dwarves           | Dwarvish |
-| Elvish     | Elves             | Elvish   |
-| Giant      | Ogres, Giants     | Dwarvish |
-| Gnomish    | Gnomes            | Dwarvish |
-| Goblin     | Goblinoids        | Dwarvish |
-| Halfling   | Halflings         | Common   |
-| Orc        | Orcs              | Dwarvish |
-
-### Exotic Languages
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
-| Deep Speech | Aboleths, cloakers  | -         |
-| Infernal    | Devils              | Infernal  |
-| Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey creatures       | Elvish    |
-| Undercommon | Underworld traders  | Elvish    |
-
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
-
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as the secret code of thieves or the language of druids.
-
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can understand one another.
-
-### Standard Languages
-| Language   | Typical Speakers  | Script   |
-|------------|-------------------|----------|
-| Common     | Humans            | Common   |
-| Dwarvish   | Dwarves           | Dwarvish |
-| Elvish     | Elves             | Elvish   |
-| Giant      | Ogres, Giants     | Dwarvish |
-| Gnomish    | Gnomes            | Dwarvish |
-| Goblin     | Goblinoids        | Dwarvish |
-| Halfling   | Halflings         | Common   |
-| Orc        | Orcs              | Dwarvish |
-
-### Exotic Languages
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic    | Dragons, dragonborn | Draconic  |
-| Deep Speech | Aboleths, cloakers  | -         |
-| Infernal    | Devils              | Infernal  |
-| Primordial  | Elementals          | Dwarvish  |
-| Sylvan      | Fey creatures       | Elvish    |
-| Undercommon | Underworld traders  | Elvish    |
-
-The language of your character is determined by their race, and their background may grant them access to additional tongues of their choosing. Note these languages on your character sheet.
-
-Choose your languages from the Standard Languages table, or choose one that is common in your campaign. With your GM's permission, you can instead choose a language from the Exotic Languages table or a secret language, such as the secret code of thieves or the language of druids.
-
-Some of these languages are actually families of languages with many dialects. For example, the Primordial language includes the Auran, Aquan, Ignan, and Terran dialects, one for each of the four elemental planes. Those who speak different dialects of the same language can converse with one another.
-
-### Standard Languages
-| Language   | Typical Speakers  | Script   |
-|------------|-------------------|----------|
-| Common     | Humans            | Common   |
-| Dwarvish   | Dwarves           | Dwarvish |
-| Elvish     | Elves             | Elvish   |
-| Giant      | Ogres, Giants     | Dwarvish |
-| Gnomish    | Gnomes            | Dwarvish |
-| Goblin     | Goblinoids        | Dwarvish |
-| Halfling   | Halflings         | Common   |
-| Orc        | Orcs              | Dwarvish |
-
-### Exotic Languages
-| Language    | Typical Speakers    | Script    |
-|-------------|---------------------|-----------|
-| Abyssal     | Demons              | Infernal  |
-| Celestial   | Celestials          | Celestial |
-| Draconic
+# Tongues
+Your race will determine the languages your character can speak by default, and your background may grant you access to one or more extra languages of your choice. Make sure to note

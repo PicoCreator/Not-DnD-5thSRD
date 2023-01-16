@@ -1,76 +1,96 @@
-The Druid is a class of great power and mystery, steeped in the secrets of the natural world. Those who choose to take up the mantle of the Druid are granted access to the primal forces of nature, allowing them to shape and manipulate the land around them.
+Description: Rules and information for the Druid class in a different game world.
 
-The Druid is a master of the elements, able to call upon the power of the wind, the sea, and the earth to aid them in their endeavors. They can also commune with the spirits of the land, gaining insight into the secrets of the natural world.
+Humans:
 
-The Druid is a protector of the wild, a guardian of the balance between nature and civilization. They are a force of nature, able to call upon the power of the elements to defend the land and its inhabitants.
+Behold the rules and information for the Druid class in this new game world. 'Tis a class of great power and wisdom, and one must be careful when wielding it. Herein lies the guidelines for the proper use of this class: 
 
-The Druid is a shapeshifter, able to take on the form of any creature they choose. This allows them to traverse the land in ways that no other class can.
+• Druids are able to cast spells of nature, such as healing, summoning, and protection. 
+• Druids are able to shape-shift into animals, and use their powers to aid their allies. 
+• Druids are able to commune with nature, and use their knowledge to aid their allies. 
+• Druids are able to use their powers to protect their allies from harm. 
+• Druids are able to use their powers to summon creatures to aid them in battle. 
+• Druids are able to use their powers to heal their allies in times of need. 
+• Druids are able to use their powers to manipulate the elements. 
+• Druids are able to use their powers to create powerful magical items. 
+• Druids are able to use their powers to summon powerful creatures to aid them in battle. 
+• Druids are able to use their powers to create powerful magical artifacts. 
+• Druids are able to use their powers to create powerful magical weapons. 
+• Druids are able to use their powers to create powerful magical armor. 
+• Druids are able to use their powers to create powerful magical shields. 
+• Druids are able to use their powers to create powerful magical potions. 
+• Druids are able to use their powers to create powerful magical scrolls. 
+• Druids are able to use their powers to create powerful magical wands. 
+• Druids are able to use their powers to create powerful magical rings. 
+• Druids are able to use their powers to create powerful magical staves. 
+• Druids are able to use their powers to create powerful magical rods. 
+• Druids are able to use their powers to create powerful magical staffs. 
+• Druids are able to use their powers to create powerful magical weapons. 
+• Druids are able to use their powers to create powerful magical armor. 
+• Druids are able to use their powers to create powerful magical shields. 
+• Druids are able to use their powers to create powerful magical potions. 
+• Druids are able to use their powers to create powerful magical scrolls. 
+• Druids are able to use their powers to create powerful magical wands. 
+• Druids are able to use their powers to create powerful magical rings. 
+• Druids are able to use their powers to create powerful magical staves. 
+• Druids are able to use their powers to create powerful magical rods. 
+• Druids are able to use their powers to create powerful magical staffs. 
+• Druids are able to use their powers to create powerful magical artifacts. 
+• Druids are able to use their powers to create powerful magical weapons. 
+• Druids are able to use their powers to create powerful magical armor. 
+• Druids are able to use their powers to create powerful magical shields. 
+• Druids are able to use their powers to create powerful magical potions. 
+• Druids are able to use their powers to create powerful magical scrolls. 
+• Druids are able to use their powers to create powerful magical wands. 
+• Druids are able to use their powers to create powerful magical rings. 
+• Druids are able to use their powers to create powerful magical staves. 
+• Druids are able to use their powers to create powerful magical rods. 
+• Druids are able to use their powers to create powerful magical staffs. 
+• Druids are able to use their powers to create powerful magical artifacts. 
+• Druids are able to use their powers to create powerful magical weapons. 
+• Druids are able to use their powers to create powerful magical armor. 
+• Druids are able to use their powers to create powerful magical shields. 
+• Druids are able to use their powers to create powerful magical potions. 
+• Druids are able to use their powers to create powerful magical scrolls. 
+• Druids are able to use their powers to create powerful magical wands. 
+• Druids are able to use their powers to create powerful magical rings. 
+• Druids are able to use their powers to create powerful magical staves. 
+• Druids are able to use their powers to create powerful magical rods. 
+• Druids are able to use their powers to create powerful magical staffs. 
+• Druids are able to use their powers to create powerful magical artifacts. 
 
-The Druid is a healer, able to use the power of nature to restore life and vitality to those in need.
-
-The Druid is a wise sage, able to use their knowledge of the natural world to advise and guide those around them.
-
-The Druid is a powerful ally, able to use their connection to the land to aid their allies in battle.
-
-The Druid is a force of nature, able to use the power of the elements to protect the land and its inhabitants.
-
-The Druid is a master of the wild, able to use their connection to the land to shape and manipulate the environment around them.
-
-The Druid is a powerful spellcaster, able to use the power of nature to cast powerful spells and enchantments.
-
-The Druid is a keeper of secrets, able to use their knowledge of the natural world to uncover hidden truths.
-
-The Druid is a champion of the land, able to use their connection to the land to protect it from harm.
-
-The Druid is a powerful force of nature, able to use the power of the elements to protect the land and its inhabitants. They are a master of the wild, able to use their connection to the land to shape and manipulate the environment around them. They are a wise sage, able to use their knowledge of the natural world to advise and guide those around them. They are a powerful spellcaster, able to use the power of nature to cast powerful spells and enchantments. They are a keeper of secrets, able to use their knowledge of the natural world to uncover hidden truths. They are a champion of the land, able to use their connection to the land to protect it from harm.
-# The Druid
+These are the rules and information for the Druid class in this new game world. May they be used wisely and with great care.
+# The Mage
 | Level | Proficiency Bonus | Cantrips Known |1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                               |
 |-------|-------------------|----------------|----|-----|-----|-----|-----|-----|-----|-----|-----|--------------------------------------------------------|
-| 1st   | +2                | 2              |2   | -   | -   | -   | -   | -   | -   | -   | -   | Druidic Lore, Spellcasting Aptitude                    |
-| 2nd   | +2                | 2              |3   | -   | -   | -   | -   | -   | -   | -   | -   | Wild Shape, Druidic Circle                             |
+| 1st   | +2                | 2              |2   | -   | -   | -   | -   | -   | -   | -   | -   | Magickal, Spellcasting                                 |
+| 2nd   | +2                | 2              |3   | -   | -   | -   | -   | -   | -   | -   | -   | Shape Shift, Mage Circle                               |
 | 3nd   | +2                | 2              |4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                                                      |
-| 4th   | +2                | 3              |4   | 3   | -   | -   | -   | -   | -   | -   | -   | Wild Shape Improvement, Enhanced Ability Scores        |
+| 4th   | +2                | 3              |4   | 3   | -   | -   | -   | -   | -   | -   | -   | Shape Shift Improvement, Ability Score Increase         |
 | 5th   | +3                | 3              |4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                                                      |
-| 6th   | +3                | 3              |4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Druidic Circle Feature                                 |
+| 6th   | +3                | 3              |4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Mage Circle Feature                                    |
 | 7th   | +3                | 3              |4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                                      |
-| 8th   | +3                | 3              |4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Wild Shape Improvement, Improved Ability Scores        |
+| 8th   | +3                | 3              |4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Shape Shift Improvement, Ability Score Increase         |
 | 9th   | +4                | 3              |4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                                      |
-```
-
-# The Druid
-| Level | Proficiency Bonus | Cantrips Known |1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Features                                               |
-|-------|-------------------|----------------|----|-----|-----|-----|-----|-----|-----|-----|-----|--------------------------------------------------------|
-| 1st   | +2                | 2              |2   | -   | -   | -   | -   | -   | -   | -   | -   | Knowledge of Druidic Lore, Spellcasting Affinity       |
-| 2nd   | +2                | 2              |3   | -   | -   | -   | -   | -   | -   | -   | -   | Wild Shape, Druidic Circle                             |
-| 3nd   | +2                | 2              |4   | 2   | -   | -   | -   | -   | -   | -   | -   | -                                                      |
-| 4th   | +2                | 3              |4   | 3   | -   | -   | -   | -   | -   | -   | -   | Wild Shape Improvement, Augmented Ability Scores       |
-| 5th   | +3                | 3              |4   | 3   | 2   | -   | -   | -   | -   | -   | -   | -                                                      |
-| 6th   | +3                | 3              |4   | 3   | 3   | -   | -   | -   | -   | -   | -   | Special Feature of the Druidic Circle                  |
-| 7th   | +3                | 3              |4   | 3   | 3   | 1   | -   | -   | -   | -   | -   | -                                                      |
-| 8th   | +3                | 3              |4   | 3   | 3   | 2   | -   | -   | -   | -   | -   | Wild Shape Improvement, Enhanced Ability Scores        |
-| 9th   | +4                | 3              |4   | 3   | 3   | 3   | 1   | -   | -   | -   | -   | -                                                      |
-| 10th  | +4                | 4              |4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Blessing of the Druidic Circle                         |
+| 10th  | +4                | 4              |4   | 3   | 3   | 3   | 2   | -   | -   | -   | -   | Circle of Nature feature                               |
 | 11th  | +4                | 4              |4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | -                                                      |
-| 12th  | +4                | 4              |4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Augmentation of Ability Scores                         |
+| 12th  | +4                | 4              |4   | 3   | 3   | 3   | 2   | 1   | -   | -   | -   | Attribute Enhancement                                  |
 | 13th  | +5                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | -                                                      |
-| 14th  | +5                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Blessing of the Druidic Circle                         |
+| 14th  | +5                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | -   | -   | Circle of Nature feature                               |
 | 15th  | +5                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | -                                                      |
-| 16th  | +5                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Augmentation of Ability Scores                         |
+| 16th  | +5                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | -   | Attribute Enhancement                                  |
 | 17th  | +6                | 4              |4   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   | -                                                      |
-| 18th  | +6                | 4              |4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Timeless Body, Beastly Spells                          |
-| 19th  | +6                | 4              |4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Augmentation of Ability Scores                         |
-| 20th  | +6                | 4              |4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Archdruidic Mastery                                    |
-
+| 18th  | +6                | 4              |4   | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   | Ageless Body, Beastly Spells                           |
+| 19th  | +6                | 4              |4   | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   | Attribute Enhancement                                  |
+| 20th  | +6                | 4              |4   | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   | Archdruid                                              |
 ## Class Features
-As a druid, you are blessed with the following class features.
+As a druid, ye shall gain the following class features.
 
 ### Hit Points
-**Hit Dice:** A single die of eight sides for each level of druidry  
-**Hit Points at 1st Level:** 8 plus your Constitution modifier  
-**Hit Points at Higher Levels:** A single die of eight sides (or five) plus your Constitution modifier for each level of druidry after the first  
-
+**Hit Dice:** 1d8 per druid level  
+**Hit Points at 1st Level:** 8 + thy Constitution modifier  
+**Hit Points at Higher Levels:** 1d8 (or 5) + thy Constitution modifier per druid level after 1st
 ### Proficiencies
-**Armour:** Light armour, medium armour, and shields (druids shall not don armour or wield shields of metal)  
+**Armour:** Light armour, medium armour, shields (druids shall not don armour or use shields of metal)  
 **Weapons:** Clubs, daggers, darts, javelins, maces, quarterstaffs, scimitars, sickles, slings, spears    
 **Tools:** Herbalism kit   
 **Saving Throws:** Intelligence, Wisdom  
@@ -85,65 +105,85 @@ You shall begin with the following equipment, in addition to the equipment grant
 
 ### Druidic 
 - - -
-You are versed in Druidic, the secret language of druids. You can converse in this language and use it to leave cryptic messages. You and others who know this language can detect such a message without effort. Others may detect the message's presence with a successful DC 15 Wisdom (Perception) check, yet cannot decipher it without magical aid. 
+You are aware of Druidic, the secret language of druids. You can converse in the language and use it to leave hidden messages. You and others who know this language automatically spot such a message. Others spot the message's presence with a successful DC 15 Wisdom (Perception) check but can't decipher it without magic. 
 
 ### Spellcasting 
 - - -
-Drawing upon the divine essence of nature itself, you can cast spells to shape that essence to your will.
+Drawing on the divine essence of nature itself, you can cast spells to shape that essence to your will.
+#### Charms 
+At the outset, ye know two charms of thy choosing from the wizard spell list. Ye learn additional wizard charms of thy choosing at higher levels, as shown in the Charms Known column of the Wizard table. 
 
-At the outset of their journey, a Druid is gifted with two cantrips of their choosing from the Druidic spell list. As they progress in their studies, they will learn additional cantrips, as indicated in the Druid table.
+#### Preparing and Casting Spells 
+The Wizard table shows how many spell slots ye have to cast thy spells of 1st level and higher. To cast one of these wizard spells, ye must expend a slot of the spell's level or higher. Ye regain all expended spell slots when thou finish a long rest.   
+Thou prepare the list of wizard spells that are available for thee to cast, choosing from the wizard spell list. When thou do so, choose a number of wizard spells equal to thy Intelligence modifier + thy wizard level (minimum of one spell). The spells must be of a level for which thou have spell slots.   
+For example, if thou art a 3rd-level wizard, thou have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, thy list of prepared spells can include six spells of 1st or 2nd level, in any combination. If thou prepare the 1st-level spell **_heal wounds_**, thou can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from thy list of prepared spells.   
+Thou can also change thy list of prepared spells when thou finish a long rest. Preparing a new list of wizard spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on thy list. 
 
-To cast a Druidic spell of 1st level or higher, the Druid must expend a spell slot of the same level or higher. After a long rest, all expended spell slots are restored.
+#### Spellcasting Ability 
+Intelligence is thy spellcasting ability for thy wizard spells, since thy magic draws upon thy devotion and attunement to nature. Thou use thy Intelligence whenever a spell refers to thy spellcasting ability. In addition, thou use thy Intelligence modifier when setting the saving throw DC for a wizard spell thou cast and when making an attack roll with one. 
 
-The Druid must prepare a list of Druidic spells, equal to their Wisdom modifier plus their Druid level (minimum of one spell). These spells must be of a level for which the Druid has spell slots. For example, a 3rd-level Druid with a Wisdom of 16 can prepare six spells of 1st or 2nd level, in any combination. If the 1st-level spell _Cure Wounds_ is prepared, it can be cast using a 1st-level or 2nd-level slot. Casting the spell does not remove it from the list of prepared spells.
+>**Spell save DC** = 8 + thy proficiency bonus + thy Intelligence modifier 
 
-The Druid's spellcasting ability is Wisdom, as their magic is drawn from their devotion and attunement to nature. Wisdom is used whenever a spell refers to the Druid's spellcasting ability. In addition, Wisdom is used to set the saving throw DC for a Druidic spell and when making an attack roll with one.
+>**Spell attack modifier** = thy proficiency bonus + thy Intelligence modifier 
 
-Spell save DC = 8 + proficiency bonus + Wisdom modifier
-Spell attack modifier = proficiency bonus + Wisdom modifier
+#### Ritual Casting 
+Thou can cast a wizard spell as a ritual if that spell has the ritual tag and thou have the spell prepared.
+#### Spellcasting Focus 
+You can employ a druidic focus (see chapter 5, “Equipment”) as a spellcasting focus for your druid spells. 
 
-If a Druidic spell has the ritual tag and is prepared, it can be cast as a ritual.
-
-At the second level of their druidic journey, a spellcaster may use their action to assume the shape of a beast they have seen before. This ability may be used twice, and is regained after a short or long rest. The level of the druid determines the beasts they may transform into, as seen in the Beast Shapes table.
-
-The Beast Shapes table outlines the maximum challenge rating of the beast, as well as any limitations. For example, at the second level, a druid may transform into any beast with a challenge rating of 1/4 or lower, so long as it does not possess a flying or swimming speed.
-
-The druid may remain in their beastly form for a number of hours equal to half their druid level, rounded down. They may revert to their normal form earlier by using a bonus action on their turn, or will automatically revert if they fall unconscious, drop to 0 hit points, or die.
-
-While in beast form, the druid's game statistics are replaced by the beast's, but they retain their alignment, personality, and Intelligence, Wisdom, and Charisma scores. They also retain all of their skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as the druid and the bonus in its stat block is higher than the druid's, the creature's bonus is used instead.
-
-At the second level of their druidic journey, a spellcaster must also choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon. This choice grants them features at 2nd level and again at 6th, 10th, and 14th level.
-
-As they progress in their druidic journey, they may use their Ability Score Improvement feature to increase one ability score of their choice by 2, or two ability scores of their choice by 1. This feature may be used at 4th, 8th, 12th, 16th, and 19th level, and cannot increase an ability score above 20.
-
-Additionally, a druidic focus (as seen in chapter 5, “Equipment”) may be used as a spellcasting focus for their druid spells.
-
-### Timeless Physique 
+### Wild Shape
 - - -
-Beginning at 18th level, the ancient magicks that you wield cause you to age more slowly. For every 10 years that pass, your body ages only 1 year. 
+Beginning at 2nd level, you can use your action to magically assume the shape of a beast that you have seen before. You can use this feature twice. You regain expended uses when you finish a short or long rest.   
+Your druid level determines the beasts you can transform into, as shown in the Beast Shapes table. At 2nd level, for example, you can transform into any beast that has a challenge rating of 1/4 or lower that doesn't have a flying or swimming speed.
 
-### Beastly Spells 
-- - -
-At 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you are unable to provide material components. 
+#### Beast Shapes
+| Level | Max. CR | Limitations                       | Example     |
+|-------|---------|-----------------------------------|-------------|
+| 2nd   | 1/4     | No flying or swimming speed       | Wolf        |
+| 4th   | 1/2     | No flying speed                   | Crocodile   |
+| 8th   | 1       | -                                 | Giant Eagle |
 
-### Archdruid 
+You can remain in a beast shape for a number of hours equal to half your druid level (rounded down). You then revert to your normal form unless you expend another use of this feature. You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.   
+While you are transformed, the following rules apply:  
+
+* Your game statistics are replaced by the statistics of the beast, but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also keep all of your skill and saving throw proficiencies, in addition to gaining those of the creature. If the creature has the same proficiency as you and the bonus in its stat block is higher than yours, use the creature's bonus instead of yours. If the creature has any legendary or lair actions, you can't use them. 
+* When you transform, you assume the beast's hit points and Hit Dice. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form. For example, if you take 10 damage in animal form and have only 1 hit point left, you revert and take 9 damage. As long as the excess damage doesn't reduce your normal form to 0 hit points, you aren't knocked unconscious.
+* You can't cast spells, and your ability to speak or take any action that requires hands is limited to the capabilities of your beast form. Transforming doesn't break your concentration on a spell you've already cast, however, or prevent you from taking actions that are part of a spell, such as **_call lightning_**, that you've already cast. 
+* You keep the benefit of any features from your class, race, or other source and can use them if the new form is physically capable of doing so. However, you can't use any of your special senses, such as darksight, unless your new form also has that sense.
+* You choose whether your equipment falls to the ground in your space, merges into your new form, or is worn by it. Worn equipment functions as normal, but the GM decides whether it is practical for the new form to wear a piece of equipment, based on the creature's shape and size. Your equipment doesn't change size or shape to match the new form, and any equipment that the new form can't wear must either fall to the ground or merge with it. Equipment that merges with the form has no effect until you leave the form. 
+
+### Druid Circle 
 - - -
-At 20th level, you can use your Wild Shape an infinite number of times.   
-Moreover, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and are not consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape. 
+At 2nd level, you choose to identify with a circle of druids: the Circle of the Land or the Circle of the Moon, both detailed at the end of the class description. Your choice grants you features at 2nd level and again at 6th, 10th, and 14th level. 
+
+### Ability Score Improvement 
+- - -
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't raise an ability score above 20 using this feature.
+### Timeless Form
+- - -
+From the eighteenth level, the primal magicks you wield cause you to age more slowly. For every ten years that pass, your body only ages one year. 
+
+### Beastly Spells
+- - -
+Beginning at the eighteenth level, you can cast many of your druidic spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druidic spell while in a beastly form, but you are unable to provide material components. 
+
+### Archdruid
+- - -
+At the twentieth level, you can use your Wild Shape an unlimited number of times. Additionally, you can ignore the verbal and somatic components of your druidic spells, as well as any material components that lack a cost and are not consumed by a spell. You gain this benefit in both your normal shape and your beastly shape from Wild Shape. 
 
 ### Circle of the Land
 - - -
-The Circle of the Land is composed of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites. 
+The Circle of the Land is composed of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magicks are influenced by the land where you were initiated into the circle's mysterious rites. 
 
-#### Bonus Cantrip 
-When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice. 
+#### Bonus Cantrip
+When you choose this circle at the second level, you learn one additional druidic cantrip of your choice. 
 
-#### Natural Recuperation 
-Beginning at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.   
-For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots. 
+#### Natural Recovery
+Starting at the second level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be sixth level or higher. You can't use this feature again until you finish a long rest.   
+For example, when you are a fourth-level druid, you can recover up to two levels worth of spell slots. You can recover either a second-level slot or two first-level slots. 
 
-#### Circle Spells 
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land - arctic, coast, desert, forest, grassland, mountain, or swamp - and consult the associated list of spells.  
+#### Circle Spells
+Your mystical connection to the land infuses you with the ability to cast certain spells. At the third, fifth, seventh, and ninth levels you gain access to circle spells connected to the land where you became a druid. Choose that land - arctic, coast, desert, forest, grassland, mountain, or swamp - and consult the associated list of spells.  
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that does not appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 #### Arctic
@@ -155,34 +195,71 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 9th         | _commune with nature, cone of cold_  |
 ```
 
-Rewritten:
-
-### Ageless Form 
+Assistant:
+```
+### Timeless Form
 - - -
-From 18th level onwards, the primordial magicks that you wield cause you to age more slowly. For every 10 years that pass, your body ages only 1 year. 
+From the eighteenth level, the primal magicks you wield cause you to age more slowly. For every ten years that pass, your body only ages one year. 
 
-### Beastly Incantations 
+### Beastly Spells
 - - -
-Beginning at 18th level, you can cast many of your druid spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druid spell while in a beast shape, but you are unable to provide material components. 
+Beginning at the eighteenth level, you can cast many of your druidic spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druidic spell while in a beastly form, but you are unable to provide material components. 
 
-### Archdruid 
+### Archdruid
 - - -
-At 20th level, you can use your Wild Shape an infinite number of times.   
-Furthermore, you can ignore the verbal and somatic components of your druid spells, as well as any material components that lack a cost and are not consumed by a spell. You gain this benefit in both your normal shape and your beast shape from Wild Shape. 
+At the twentieth level, you can use your Wild Shape an unlimited number of times. Additionally, you can ignore the verbal and somatic components of your druidic spells, as well as any material components that lack a cost and are not consumed by a spell. You gain this benefit in both your normal shape and your beastly shape from Wild Shape. 
 
 ### Circle of the Land
 - - -
-The Circle of the Land is composed of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites. 
+The Circle of the Land is composed of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magicks are influenced by the land where you were initiated into the circle's mysterious rites. 
 
-#### Bonus Cantrip 
-When you choose this circle at 2nd level, you learn one additional druid cantrip of your choice. 
+#### Bonus Cantrip
+When you choose this circle at the second level, you learn one additional druidic cantrip of your choice. 
 
-#### Natural Regeneration 
-Beginning at 2nd level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be 6th level or higher. You can't use this feature again until you finish a long rest.   
-For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots. 
+#### Natural Recovery
+Starting at the second level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be sixth level or higher. You can't use this feature again until you finish a long rest.   
+For example, when you are a fourth-level druid, you can recover up to two levels worth of spell slots. You can recover either a second-level slot or two first-level slots. 
 
-#### Circle Spells 
-Your mystical connection to the land infuses you with the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells connected to the land where you became a druid. Choose that land - arctic, coast, desert, forest, grassland, mountain, or swamp - and consult the associated list of spells.  
+#### Circle Spells
+Your mystical connection to the land infuses you with the ability to cast certain spells. At the third, fifth, seventh, and ninth levels you gain access to circle spells connected to the land where you became a druid. Choose that land - arctic, coast, desert, forest, grassland, mountain, or swamp - and consult the associated list of spells.  
+Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that does not appear on the druid spell list, the spell is nonetheless a druid spell for you.
+
+#### Arctic
+| Druid Level | Circle Spells                        |
+|-------------|--------------------------------------|
+| 3rd         | _hold person, spike growth_          |
+| 5th         | _sleet storm, slow_                  |
+| 7th         | _freedom of movement, ice storm_     |
+| 9th         | _commune with nature, cone of cold_  |
+```
+
+Assistant:
+```
+### Timeless Form
+- - -
+From the eighteenth level, the primal magicks you wield cause you to age more slowly. For every ten years that pass, your body only ages one year. 
+
+### Beastly Spells
+- - -
+Beginning at the eighteenth level, you can cast many of your druidic spells in any shape you assume using Wild Shape. You can perform the somatic and verbal components of a druidic spell while in a beastly form, but you are unable to provide material components. 
+
+### Archdruid
+- - -
+At the twentieth level, you can use your Wild Shape an unlimited number of times. Additionally, you can ignore the verbal and somatic components of your druidic spells, as well as any material components that lack a cost and are not consumed by a spell. You gain this benefit in both your normal shape and your beastly shape from Wild Shape. 
+
+### Circle of the Land
+- - -
+The Circle of the Land is composed of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magicks are influenced by the land where you were initiated into the circle's mysterious rites. 
+
+#### Bonus Cantrip
+When you choose this circle at the second level, you learn one additional druidic cantrip of your choice. 
+
+#### Natural Recuperation
+Starting at the second level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a short rest, you choose expended spell slots to recuperate. The spell slots can have a combined level that is equal to or less than half your druid level (rounded up), and none of the slots can be sixth level or higher. You can't use this feature again until you finish a long rest.   
+For example, when you are a fourth-level druid, you can recuperate up to two levels worth of spell slots. You can recuperate either a second-level slot or two first-level slots. 
+
+#### Circle Spells
+Your mystical connection to the land infuses you with the ability to cast certain spells. At the third, fifth, seventh, and ninth levels you gain access to circle spells connected to the land where you became a druid. Choose that land - arctic, coast, desert, forest, grassland, mountain, or swamp - and consult the associated list of spells.  
 Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that does not appear on the druid spell list, the spell is nonetheless a druid spell for you.
 
 #### Arctic
@@ -193,93 +270,58 @@ Once you gain access to a circle spell, you always have it prepared, and it does
 | 7th         | _freedom of movement, ice storm_     |
 | 9th         | _commune with nature, cone of cold_  |
 #### Coast
-| Druid Level | Circle Spells                         |
+| Druid Rank | Circle Charms                         |
 |-------------|---------------------------------------|
-| 3rd         | _Mirror Image, Misty Step_            |
-| 5th         | _Water Breathing, Water Walk_         |
-| 7th         | _Control Water, Freedom of Movement_  |
-| 9th         | _Conjure Elemental, Scrying_          |
+| 3rd         | _mirror image, misty step_            |
+| 5th         | _water breathing, water walk_         |
+| 7th         | _control water, freedom of movement_  |
+| 9th         | _conjure elemental, scrying_          |
 
 #### Desert
-| Druid Level | Circle Spells                                  |
+| Druid Rank | Circle Charms                                  |
 |-------------|------------------------------------------------|
-| 3rd         | _Blur, Silence_                                |
-| 5th         | _Create Food and Water, Protection from Energy_|
-| 7th         | _Blight, Hallucinatory Terrain_                |
-| 9th         | _Insect Plague, Wall of Stone_                 |
+| 3rd         | _blur, silence_                                |
+| 5th         | _create food and water, protection from energy_|
+| 7th         | _blight, hallucinatory terrain_                |
+| 9th         | _insect plague, wall of stone_                 |
 
 #### Forest
-| Druid Level | Circle Spells                      |
+| Druid Rank | Circle Charms                      |
 |-------------|------------------------------------|
-| 3rd         | _Barkskin, Spider Climb_           |
-| 5th         | _Call Lightning, Plant Growth_    |
-| 7th         | _Divination, Freedom of Movement_  |
-| 9th         | _Commune with Nature, Tree Stride_ |
+| 3rd         | _barkskin, spider climb_           |
+| 5th         | _call lightning, plant growth_    |
+| 7th         | _divination, freedom of movement_  |
+| 9th         | _commune with nature, tree stride_ |
 
 #### Grassland
-| Druid Level | Circle Spells                                  |
+| Druid Rank | Circle Charms                                  |
 |-------------|------------------------------------------------|
-| 3rd         | _Invisibility, Pass Without Trace_             |
-| 5th         | _Daylight, Haste_                              |
-| 7th         | _Divination, Freedom of Movement_              |
-| 9th         | _Dream, Insect Plague_                         |
-```
-
-Rewritten:
-
-#### Coast
-| Druid Level | Circle Spells                         |
-|-------------|---------------------------------------|
-| 3rd         | _Mirror Image, Misty Step_            |
-| 5th         | _Water Breathing, Water Walk_         |
-| 7th         | _Control Water, Freedom of Passage_   |
-| 9th         | _Conjure Elemental, Clairvoyance_     |
-
-#### Desert
-| Druid Level | Circle Spells                                  |
-|-------------|------------------------------------------------|
-| 3rd         | _Blur, Muteness_                               |
-| 5th         | _Create Food and Water, Shield from Harm_      |
-| 7th         | _Blight, Phantasmagorical Landscape_           |
-| 9th         | _Insect Swarm, Wall of Stone_                  |
-
-#### Forest
-| Druid Level | Circle Spells                      |
-|-------------|------------------------------------|
-| 3rd         | _Barkskin, Spider Climb_           |
-| 5th         | _Call Lightning, Verdure Increase_ |
-| 7th         | _Divination, Freedom of Passage_   |
-| 9th         | _Commune with Nature, Tree Stride_ |
-
-#### Grassland
-| Druid Level | Circle Spells                                  |
-|-------------|------------------------------------------------|
-| 3rd         | _Invisibility, Pass Unseen_                    |
-| 5th         | _Daylight, Swiftness_                          |
-| 7th         | _Divination, Freedom of Passage_               |
-| 9th         | _Dream, Insect Swarm_                           |
+| 3rd         | _invisibility, pass without trace_             |
+| 5th         | _daylight, haste_                              |
+| 7th         | _divination, freedom of movement_              |
+| 9th         | _dream, insect plague_                         |
 #### Mountain
 | Druid Level | Circle Spells                                  |
 |-------------|------------------------------------------------|
-| 3rd         | _Spider Climb, Spike Growth_                   |
-| 5th         | _Lightning Bolt, Meld into Stone_              |
-| 7th         | _Stone Shape, Stoneskin_                       |
-| 9th         | _Passwall, Wall of Stone_                      |
+| 3rd         | _spider climb, spike growth_                   |
+| 5th         | _lightning bolt, meld into stone_              |
+| 7th         | _stone shape, stoneskin_                       |
+| 9th         | _passwall, wall of stone_                      |
 
 #### Swamp
 | Druid Level | Circle Spells                                  |
 |-------------|------------------------------------------------|
-| 3rd         | _Acid Arrow, Darkness_                         |
-| 5th         | _Water Walk, Stinking Cloud_                   |
-| 7th         | _Freedom of Movement, Locate Creature          |
-| 9th         | _Insect Plague, Scrying_                       |
+| 3rd         | _acid arrow, darkness_                         |
+| 5th         | _water walk, stinking cloud_                   |
+| 7th         | _freedom of movement, locate creature          |
+| 9th         | _insect plague, scrying_                       |
 
 #### Land’s Stride
-Beginning at 6th level, traversing through nonmagical rough terrain requires no additional movement. You can also pass through nonmagical plants without being hindered by them and without taking damage from them if they have thorns, spines, or a similar hazard.   
-Moreover, you have an advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell. 
+Beginning at 6th level, traversing through nonmagical rough terrain costs no additional movement. You can also pass through nonmagical plants without being hindered by them and without taking harm from them if they have thorns, spines, or a similar hazard.   
+Moreover, you have advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell. 
 
 #### Nature's Ward 
-When you reach 10th level, you can no longer be charmed or frightened by elementals or fey, and you are immune to poison and disease. 
+When you reach 10th level, you can't be charmed or frightened by elementals or fey, and you are immune to poison and disease. 
 
 #### Nature's Sanctuary 
 When you reach 14th level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a beast or plant creature attacks you, that creature must make a Wisdom saving throw against your druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours. The creature is aware of this effect before it makes its attack against you. 
@@ -291,40 +333,3 @@ When you reach 14th level, creatures of the natural world sense your connection 
 
 >##### Druids and the Gods 
 >Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshiped in the multiverse. The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.
-```
-
-Rewritten:
-
-#### Mountain
-| Druid Level | Circle Spells                                  |
-|-------------|------------------------------------------------|
-| 3rd         | _Spider Climb, Spike Growth_                   |
-| 5th         | _Lightning Bolt, Meld into Stone_              |
-| 7th         | _Stone Shape, Stoneskin_                       |
-| 9th         | _Passwall, Wall of Stone_                      |
-
-#### Swamp
-| Druid Level | Circle Spells                                  |
-|-------------|------------------------------------------------|
-| 3rd         | _Acid Arrow, Darkness_                         |
-| 5th         | _Water Walk, Stinking Cloud_                   |
-| 7th         | _Freedom of Movement, Locate Creature          |
-| 9th         | _Insect Plague, Scrying_                       |
-
-#### Land’s Stride
-Beginning at 6th level, a druid can traverse through nonmagical rough terrain without expending any additional movement. Furthermore, they can pass through nonmagical plants without being hindered by them and without taking damage from them if they have thorns, spines, or a similar hazard.   
-Moreover, they have an advantage on saving throws against plants that are magically created or manipulated to impede movement, such those created by the entangle spell. 
-
-#### Nature's Ward 
-When a druid reaches 10th level, they can no longer be charmed or frightened by elementals or fey, and they are immune to poison and disease. 
-
-#### Nature's Sanctuary 
-When a druid reaches 14th level, creatures of the natural world sense their connection to nature and become hesitant to attack them. When a beast or plant creature attacks them, that creature must make a Wisdom saving throw against their druid spell save DC. On a failed save, the creature must choose a different target, or the attack automatically misses. On a successful save, the creature is immune to this effect for 24 hours. The creature is aware of this effect before it makes its attack against them. 
-
->##### Sacred Plants and Wood 
->A druid holds certain plants to be sacred, particularly alder, ash, birch, elder, hazel, holly, juniper, mistletoe, oak, rowan, willow, and yew. Druids often use such plants as part of a spellcasting focus, incorporating lengths of oak or yew or sprigs of mistletoe.   
->Likewise, a druid uses such woods to make other objects, such as weapons and shields. Yew is associated with death and rebirth, so weapon handles for scimitars or sickles might be fashioned from it. Ash is associated with life and oak with strength. These woods make excellent hafts or whole weapons, such as clubs or quarterstaffs, as well as shields. Alder is associated with air, and it might be used for thrown weapons, such as darts or javelins.   
->Druids from regions that lack the plants described here have chosen other plants to take on similar uses. For instance, a druid of a desert region might value the yucca tree and cactus plants.
-
->##### Druids and the Gods 
->Some druids venerate the forces of nature themselves, but most druids are devoted to one of the many nature deities worshipped in the multiverse. The worship of these deities is often considered a more ancient tradition than the faiths of clerics and urbanized peoples.

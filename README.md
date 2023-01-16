@@ -26,9 +26,9 @@ It maybe similar, but the wording is different.
 
 # this @LegalEagle video link is here for no reason in particular
 
-[![LegalEagle-thumbnail](./random/dnd-legal-eagle-thumbnail.jpeg)](https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle)
+[![LegalEagle-thumbnail](./random/dnd-legal-eagle-thumbnail.jpeg)](https://youtu.be/iZQJQYqhAgY?t=373)
 
-https://www.youtube.com/watch?v=iZQJQYqhAgY&ab_channel=LegalEagle
+https://youtu.be/iZQJQYqhAgY?t=373
 
 I like this video, and you should see it 😉
 

@@ -6,21 +6,22 @@ It is a creative expression, of a common set of rules, for another realm. That i
 
 This is built using the collabrative effort, of human's and AI.
 
+Almost everything is in the [docs folder](./docs/)
+
 # For example, here is the rules on "Taking rest"
 
 **Not DnD 5thSRD**
-```
-# Taking Rest 
-Though they may be brave and courageous, adventurers cannot spend every hour of the day in the midst of exploration, social interaction, and combat. They must take time to rest, to sleep and eat, to tend to their wounds, to refresh their minds and spirits for spellcasting, and to prepare themselves for further adventures.
-```
+
+> **Taking Rest**
+> Though they may be brave and courageous, adventurers cannot spend every hour of the day in the midst of exploration, social interaction, and combat. They must take time to rest, to sleep and eat, to tend to their wounds, to refresh their minds and spirits for spellcasting, and to prepare themselves for further adventures.
+
 
 **Extract from a major game**
-```
-# Resting 
-Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
-```
 
-It maybe similar, but the wording is changed.
+> **Resting**
+> Heroic though they might be, adventurers can't spend every hour of the day in the thick of exploration, social interaction, and combat. They need rest--time to sleep and eat, tend their wounds, refresh their minds and spirits for spellcasting, and brace themselves for further adventure.
+
+It maybe similar, but the wording is different.
 
 # this @LegalEagle video link is here for no reason in particular
 

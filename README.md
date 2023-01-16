@@ -68,7 +68,7 @@ The full (work in progress) list will be [updated here](./terms/full-terms-list.
 
 # Is this legal, what is the license for this?
 
-Honestly I do not know - I intend to put this under `MIT license`. But I do not know If I can.
+Honestly I do not know - I intend to put this under `MIT license` or `Creative Commons - Attribution`. But I do not know If I can.
 
 This combines 2 giant legal furball.
 
@@ -88,12 +88,12 @@ So until those are resolved, treat this as a dump of various WIP stuff.
 If this is considered derivative work, it would be probably using the something like the OGL license
 If this is NOT derivative work, it would be MIT license.
 
-Also to make it clear in advance, if anyone is willing to "take legal responsibility", of converting this to MIT licensing.
-I will not be persuing you, as long as you give attribution to this project (and its other contributors), as per the spirit of the MIT terms.
+Also to make it clear in advance, if anyone is willing to "take legal responsibility", of converting this to `MIT licensing` or `Creative Commons - Attribution`.
+I will not be persuing you, as long as you give attribution to this project (and its other contributors), as per the spirit of the `MIT` /  `Creative Commons - Attribution` terms.
 
 I am not a lawyer
 
-# So what can we do next to make this MIT license compatible ?
+# So what can we do next to make this "Creative Commons - Attribution" compatible ?
 
 - Step 1) Review and remove any trademark / copyright infringing term.
     - The AI draws inspiration from too many sources, including copyright / trademark infringing sources.
@@ -120,8 +120,8 @@ Once all these are resolve, maybe we would want to call it `OpenSRD` ?
 If you pass me any pull requests, you release all your copyright claims and licensing terms for your changes.
 I will keep your changes in git history, and ensure your changes are tracked as a contributor.
 
-If the end result can be MIT licensed. You will be named as a contributor attributed under the MIT license.
-If the end result is considered derivative work, it should be under OGL, and you have git history and credit. (Need a lawyer)
+If the end result can be `MIT` /  `Creative Commons - Attribution` licensed. You will be named as a contributor attributed under one of the above licenses (not decided which)
+If the end result is considered derivative work, it should be under OGL, and you have git history and credit (sorry)
 
 # More food for thought
 

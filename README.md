@@ -34,6 +34,10 @@ This is done with either of the following techniques
 
 The specific's of which page is done using which method, will not be disclosed.
 
+PS: It took over 4 hours, for the AI to rewrite every page, one page at a time. Which I had to do about 3 times, due to silly coding bugs on my end.
+
+# Terms list
+
 For the sake of avoiding confusion, with another well known game franchise, which is very similar.
 
 The following are clarification, for common confusion, with potentially copyrighted or trademark terms, found in another notable game.
